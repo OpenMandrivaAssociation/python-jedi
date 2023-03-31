@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	0.18.2
-Release:	1
+Release:	2
 Summary:	An auto completion tool for Python that can be used for text editors
 Group:		Development/Python
 License:	LGPLv3
