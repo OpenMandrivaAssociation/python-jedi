@@ -1,8 +1,8 @@
 %define module	jedi
 
 Name:		python-%{module}
-Version:	0.18.2
-Release:	2
+Version:	0.19.1
+Release:	1
 Summary:	An auto completion tool for Python that can be used for text editors
 Group:		Development/Python
 License:	LGPLv3
