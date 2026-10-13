@@ -1,2 +1,3 @@
-# this is a result of using fdupes, filter it out
-addFilter("W: cross-directory-hard-link")
+# fdupes hardlinks are a warning on the built package. addFilter is unused
+# on the source package and fails the srpm check.
+setBadness("cross-directory-hard-link", 0)

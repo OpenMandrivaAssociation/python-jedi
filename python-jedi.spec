@@ -2,8 +2,8 @@
 %bcond tests 1
 
 Name:		python-jedi
-Version:	0.20.0
-Release:	2
+Version:	0.20.1
+Release:	1
 Summary:	An auto completion tool for Python
 Group:		Development/Python
 License:	MIT
