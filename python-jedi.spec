@@ -3,7 +3,7 @@
 
 Name:		python-jedi
 Version:	0.20.0
-Release:	1
+Release:	2
 Summary:	An auto completion tool for Python
 Group:		Development/Python
 License:	MIT
@@ -15,7 +15,7 @@ Source100:	%{name}.rpmlintrc
 BuildSystem:	python
 BuildArch:	noarch
 BuildRequires:	fdupes
-BuildRequires:	pkgconfig(python)
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(wheel)
